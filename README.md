@@ -1,4 +1,4 @@
-# 💫 About Me
+                                                                    Hi! I am Shyam Pratap...
 
 I’m a software developer focused on building **scalable, reliable, and efficient systems**.  
 I work across **backend, frontend, and cloud**, with hands-on experience in designing APIs, integrating databases, and deploying applications on AWS.
