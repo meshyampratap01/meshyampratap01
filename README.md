@@ -30,6 +30,7 @@ I care deeply about **performance, clarity, and long-term maintainability** in c
 ![C++](https://img.shields.io/badge/C++-00599C?style=plastic&logo=c%2B%2B&logoColor=white)
 
 ### Backend & APIs
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=plastic&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=plastic&logo=flask&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=plastic&logo=jsonwebtokens)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=plastic&logo=selenium&logoColor=white)
